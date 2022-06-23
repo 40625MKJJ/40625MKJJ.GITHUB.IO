@@ -149,7 +149,7 @@ h1{
 
 .box-01{
     position: absolute;
-    width: 713px;
+    width: auto;
     left: 72px;
     top: 0;
     background: rgb(86, 6, 96);
